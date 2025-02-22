@@ -17,7 +17,7 @@ Feel free to explore my repositories and get in touch if you're interested in co
 - **Programming Languages**: Python, C, C++
 - **Technologies & Tools**: Excel, Word
 
-## I'm currently learning:
+## Classes I'm currently taking:
 
 - Data Structures and Algorithms
 - Assembly Language
