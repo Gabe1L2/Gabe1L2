@@ -15,6 +15,7 @@ Feel free to explore my repositories and get in touch if you're interested in co
 ## Skills
 
 - **Programming Languages**: Python, C, C++
+- **Front End Technologies**: HTML, CSS
 - **Technologies & Tools**: Excel, Word
 
 ## Classes I'm currently taking:
@@ -22,6 +23,7 @@ Feel free to explore my repositories and get in touch if you're interested in co
 - Data Structures and Algorithms
 - Assembly Language
 - Software Security
+- Discrete Mathematics
 
 ## Get in Touch
 
