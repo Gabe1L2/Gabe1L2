@@ -1,6 +1,6 @@
 # Welcome to My Profile
 
-Hey! I'm a **sophomore** at **Dakota State University** majoring in **Computer Science** with a specialization in **Artificial Intelligence (AI) and Machine Learning (ML)**. I'm passionate about coding and creating and I love problem-solving and continually improving my technologic skillset.
+Hey! I'm a **junior** at **Dakota State University** majoring in **Computer Science** with a specialization in **Artificial Intelligence (AI) and Machine Learning (ML)**. I'm passionate about coding and creating and I love problem-solving and continually improving my technologic skillset.
 
 ## My Projects
 
@@ -9,21 +9,23 @@ I am going to be sharing my personal coding projects here. I will try to build t
 Some of my work includes:
 
 - **Cryptocurrency Portfolio Tracker**: A tool that helps track cryptocurrency investments, with features like transaction/portfolio tracking and live price updates. Built with Python and Tkinter
+- **Clash Royale War Tracker**: WIP
 
 Feel free to explore my repositories and get in touch if you're interested in collaborating or discussing ideas
 
 ## Skills
 
-- **Programming Languages**: Python, C, C++
+- **Programming Languages**: C#, C++, C, Python
 - **Front End Technologies**: HTML, CSS
-- **Technologies & Tools**: Excel, Word
+- **Technologies & Tools**: Microsoft Azure, Datadog, Octopus Deploy, ActiveBatch, Jira
 
 ## Classes I'm currently taking:
 
-- Data Structures and Algorithms
-- Assembly Language
-- Software Security
-- Discrete Mathematics
+- Intro: Artificial Intelligence
+- Parallel Computing
+- Mathematics of Games
+- Object Oriented Design
+- Programming for Analytics
 
 ## Get in Touch
 
