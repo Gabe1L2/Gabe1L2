@@ -16,7 +16,7 @@ Feel free to explore my repositories and get in touch if you're interested in co
 ## Skills
 
 - **Programming Languages**: C#, C++, C, Python
-- **Front End Technologies**: HTML, CSS
+- **Front End Technologies**: Razor Pages
 - **Technologies & Tools**: Microsoft Azure, Datadog, Octopus Deploy, ActiveBatch, Jira
 
 ## Classes I'm currently taking:
@@ -26,6 +26,14 @@ Feel free to explore my repositories and get in touch if you're interested in co
 - Mathematics of Games
 - Object Oriented Design
 - Programming for Analytics
+
+## Classes I'm taking in the Spring:
+
+- Software Development with Agile Methedologies
+- Networking I
+- Advanced Data Structures
+- Web Development
+- Calculus II
 
 ## Get in Touch
 
