@@ -8,8 +8,8 @@ I share my personal coding projects here, building them so they’re usable by o
 
 Some of my work includes:
 
-- **Cryptocurrency Portfolio Tracker** (Python, Tkinter): Tool for tracking cryptocurrency investments with features like transaction history, portfolio summaries, and live price updates.  
-- **Clash Royale War Tracker** (.NET 8, Razor Pages, Entity Framework Core): Full-stack web app that integrates with the Clash Royale API to track and analyze clan war performance. Includes real-time data updates, interactive dashboards with advanced filtering, clan management, authentication/authorization, and CI/CD deployment to production.  
+- **[Cryptocurrency Portfolio Tracker](https://github.com/Gabe1L2/CryptoPortfolioTracker)** (Python, Tkinter): Tool for tracking cryptocurrency investments with features like transaction history, portfolio summaries, and live price updates.  
+- **[Clash Royale War Tracker](https://github.com/Gabe1L2/ClashRoyaleWarTracker)** (.NET 8, Razor Pages, Entity Framework Core): Full-stack web app that integrates with the Clash Royale API to track and analyze clan war performance. Includes real-time data updates, interactive dashboards with advanced filtering, clan management, authentication/authorization, and CI/CD deployment to production.  
 
 Feel free to explore my repositories and get in touch if you're interested in collaborating or discussing ideas!
 
@@ -27,7 +27,7 @@ Feel free to explore my repositories and get in touch if you're interested in co
 
 ## What I’m Looking For
 
-🎯 I’m open for **software engineering or internships** where I can apply my skills in full-stack development, database systems, and AI/ML for the Summer of 2026
+🎯 I’m currently seeking **software engineering internships** where I can apply my skills in full-stack development, database systems, and AI/ML for the Summer of 2026
 
 ## Get in Touch
 
