@@ -1,43 +1,35 @@
 # Welcome to My Profile
 
-Hey! I'm a **junior** at **Dakota State University** majoring in **Computer Science** with a specialization in **Artificial Intelligence (AI) and Machine Learning (ML)**. I'm passionate about coding and creating and I love problem-solving and continually improving my technologic skillset.
+Hey! I'm a **junior** at **Dakota State University**, majoring in **Computer Science** with a specialization in **Artificial Intelligence (AI) and Machine Learning (ML)**. I’m passionate about building practical software solutions, solving complex problems, and continually expanding my technical skillset.
 
 ## My Projects
 
-I am going to be sharing my personal coding projects here. I will try to build them so anyone can use them if they find them useful
+I share my personal coding projects here, building them so they’re usable by others who might find them helpful.  
 
 Some of my work includes:
 
-- **Cryptocurrency Portfolio Tracker**: A tool that helps track cryptocurrency investments, with features like transaction/portfolio tracking and live price updates. Built with Python and Tkinter
-- **Clash Royale War Tracker**: WIP
+- **Cryptocurrency Portfolio Tracker** (Python, Tkinter): Tool for tracking cryptocurrency investments with features like transaction history, portfolio summaries, and live price updates.  
+- **Clash Royale War Tracker** (.NET 8, Razor Pages, Entity Framework Core): Full-stack web app that integrates with the Clash Royale API to track and analyze clan war performance. Includes real-time data updates, interactive dashboards with advanced filtering, clan management, authentication/authorization, and CI/CD deployment to production.  
 
-Feel free to explore my repositories and get in touch if you're interested in collaborating or discussing ideas
+Feel free to explore my repositories and get in touch if you're interested in collaborating or discussing ideas!
 
 ## Skills
 
-- **Programming Languages**: C#, C++, C, Python
-- **Front End Technologies**: Razor Pages
-- **Technologies & Tools**: Microsoft Azure, Datadog, Octopus Deploy, ActiveBatch, Jira
+- **Languages**: C#, C++, C, Python  
+- **Web/Frontend**: Razor Pages, Bootstrap  
+- **Databases**: SQL Server, Entity Framework Core  
+- **DevOps & Tools**: Microsoft Azure, GitHub Actions, Octopus Deploy, Datadog, ActiveBatch, Jira  
 
-## Classes I'm currently taking:
+## Current Focus
 
-- Intro: Artificial Intelligence
-- Parallel Computing
-- Mathematics of Games
-- Object Oriented Design
-- Programming for Analytics
+- **Currently Studying**: AI/ML, Parallel Computing, Object-Oriented Design, Applied Math, Programming for Analytics  
+- **Next Semester**: Agile Development, Networking, Advanced Data Structures, Web Development, Calculus II  
 
-## Classes I'm taking in the Spring:
+## What I’m Looking For
 
-- Software Development with Agile Methedologies
-- Networking I
-- Advanced Data Structures
-- Web Development
-- Calculus II
+🎯 I’m open for **software engineering or internships** where I can apply my skills in full-stack development, database systems, and AI/ML for the Summer of 2026
 
 ## Get in Touch
 
-Feel free to reach out to me if you have any questions
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabelee12/)
-- 📧 [Email](mailto:gabelee0412@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabelee12/)  
+- 📧 [Email](mailto:gabelee0412@gmail.com)  
