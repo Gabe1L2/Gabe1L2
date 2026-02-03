@@ -1,6 +1,6 @@
 # Welcome to My Profile
 
-Hey! I'm a **junior** at **Dakota State University**, majoring in **Computer Science** with a specialization in **Artificial Intelligence (AI) and Machine Learning (ML)**. I’m passionate about building practical software solutions, solving complex problems, and continually expanding my technical skillset.
+Hey! I'm a **junior** at **Dakota State University**, majoring in **Computer Science** with a specialization in **Artificial Intelligence (AI) and Machine Learning (ML)**. I’m also currently work as a junior software developer while finishing my studies.
 
 ## My Projects
 
@@ -22,12 +22,8 @@ Feel free to explore my repositories and get in touch if you're interested in co
 
 ## Current Focus
 
-- **Currently Studying**: AI/ML, Parallel Computing, Object-Oriented Design, Applied Math, Programming for Analytics  
-- **Next Semester**: Agile Development, Networking, Advanced Data Structures, Web Development, Calculus II  
-
-## What I’m Looking For
-
-🎯 I’m currently seeking **software engineering internships** where I can apply my skills in full-stack development, database systems, and AI/ML for the Summer of 2026
+- **Currently Studying**: Agile Development, Networking, Advanced Data Structures, Web Development, Calculus II 
+- **Next Semester**: Algorithms & Optimizations, Software Engineering, Business Intelligence & Big Data, Artificial Intelligence, Programming Languages  
 
 ## Get in Touch
 
