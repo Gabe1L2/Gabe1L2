@@ -1,2 +1,1 @@
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabelee12/)  
-- 📧 [Email](mailto:gabelee0412@gmail.com)  
+
